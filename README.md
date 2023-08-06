@@ -1,4 +1,4 @@
-![hh](img/hh.png)
+![hh](https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg)
 
 # **Проект: Анализ резюме с сайта HeadHunter.ru**
 ---
