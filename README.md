@@ -1,4 +1,4 @@
-![hh](img/hh.jpg)
+![hh](img/hh.png)
 
 # **Проект: Анализ резюме с сайта HeadHunter.ru**
 ---
