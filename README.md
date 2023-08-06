@@ -1,4 +1,4 @@
-![hh](https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg)
+<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
 
 # **Проект: Анализ резюме с сайта HeadHunter.ru**
 ---
