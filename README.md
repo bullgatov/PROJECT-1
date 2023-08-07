@@ -25,5 +25,6 @@
 * **plotly**
 
 ## **Ссылки на данные**
+* **[Ссылка для скачивания ноутбука](https://cloud.mail.ru/public/39EA/nhRKYmwRq)**
 * **[Данные резюме соискателей](https://cloud.mail.ru/public/hL3w/ao4LeyCBm)**
 * **[Данные курса валют](https://cloud.mail.ru/public/oZQc/CmGt7HnuK)**
