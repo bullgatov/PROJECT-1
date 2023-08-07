@@ -25,6 +25,7 @@
 * **plotly**
 
 ## **Ссылки на данные**
+* **[Ссылка на nbviewer](https://nbviewer.org/github/bullgatov/PROJECT-1/blob/865a4b460f083757dee7c30d5ae352d6305c3ab9/Project-1.ipynb)**
 * **[Ссылка для скачивания ноутбука](https://cloud.mail.ru/public/39EA/nhRKYmwRq)**
 * **[Данные резюме соискателей](https://cloud.mail.ru/public/hL3w/ao4LeyCBm)**
 * **[Данные курса валют](https://cloud.mail.ru/public/oZQc/CmGt7HnuK)**
