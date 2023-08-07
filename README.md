@@ -23,9 +23,7 @@
 * **pandas** 
 * **seaborn**
 * **plotly**
-* **matplotlib**
 
 ## **Ссылки на данные**
-* **[Графики в plotly](https://nbviewer.org/github/JoWiry/Project-1/tree/master/html_plots/)**
 * **[Данные резюме соискателей](https://cloud.mail.ru/public/hL3w/ao4LeyCBm)**
 * **[Данные курса валют](https://cloud.mail.ru/public/oZQc/CmGt7HnuK)**
